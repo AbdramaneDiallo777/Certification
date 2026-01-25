@@ -9,4 +9,4 @@ Ce dépôt regroupe mes accomplissements et certifications techniques.
 **Délivré par :** DataScientest
 **Date d'obtention :** 14 Decembre 2025
 
-![Certification Prompt Engineering](Certification_Prompt_Engineering_N1.png)
+![Certification Prompt Engineering](Certification_Prompt_Engineering_N1.pdf)
