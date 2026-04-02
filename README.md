@@ -5,6 +5,10 @@ Ce dépôt regroupe mes accomplissements et certifications techniques.
 
 ## IA & Intelligence Artificielle Générative
 
+## Programmation Python
+
+## Programmation Niveau 2 SQL Big-Data
+
 ### Eval QCM - IA & GenAI - Prompt Engineering Niveau 1 (FR)
 **Délivré par :** DataScientest
 **Date d'obtention :** 14 Decembre 2025
